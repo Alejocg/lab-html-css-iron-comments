@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    margin: 0;
+    padding-top: 100px;
+    width: 100vw;
+    background-color: rgb(25, 33, 41);    
+    color:rgb(255,255,255);
+    
+
+
+}
+
+#form-container {
+    margin: auto;
+    width: 250;
+    box-sizing: border-box;
+    margin: 10em 10em 10em 10em;
+    padding: 15px;
+    border: 3px solid rgb(67, 163, 230);
+    border-radius: 1%;
+    
+}
+
+#button {
+
+    background-color: rgb(67, 163, 230);
+    color:rgb(255,255,255);
+    border:5%;
+    border-radius: 6px;
+   
+}
