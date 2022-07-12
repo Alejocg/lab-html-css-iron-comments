@@ -5,18 +5,18 @@ body {
     width: 100vw;
     background-color: rgb(25, 33, 41);    
     color:rgb(255,255,255);
-    
-
+    width: 100%;
+   
 
 }
 
 #form-container {
     margin: auto;
-    width: 250;
+    width: 250px;
     box-sizing: border-box;
     margin: 10em 10em 10em 10em;
     padding: 15px;
-    border: 3px solid rgb(67, 163, 230);
+    border: 2px solid rgb(67, 163, 230);
     border-radius: 1%;
     
 }
@@ -27,5 +27,7 @@ body {
     color:rgb(255,255,255);
     border:5%;
     border-radius: 6px;
+    padding: 0.25rem;
+    margin-top: 5px;
    
 }
